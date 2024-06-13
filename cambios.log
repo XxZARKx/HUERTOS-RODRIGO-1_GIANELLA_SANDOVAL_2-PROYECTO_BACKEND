@@ -1,0 +1,176 @@
+[2024-05-29 22:59:13] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-29 22:59:21] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-29 22:59:29] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-29 22:59:36] [ INFO ] [OdontologoDAOH2:86] iniciando las operaciones de : Listado  
+[2024-05-29 23:00:01] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-29 23:00:06] [ INFO ] [OdontologoDAOH2:86] iniciando las operaciones de : Listado  
+[2024-05-29 23:00:07] [ INFO ] [OdontologoDAOH2:86] iniciando las operaciones de : Listado  
+[2024-05-29 23:00:08] [ INFO ] [OdontologoDAOH2:86] iniciando las operaciones de : Listado  
+[2024-05-29 23:00:08] [ INFO ] [OdontologoDAOH2:86] iniciando las operaciones de : Listado  
+[2024-05-29 23:00:41] [ INFO ] [OdontologoDAOH2:19] iniciando las operaciones de : Guardado de :Pamela
+[2024-05-29 23:00:41] [ ERROR] [OdontologoDAOH2:33] NULL not allowed for column "MATRICULA"; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES(?,?,?) [23502-224]
+[2024-05-29 23:00:43] [ INFO ] [OdontologoDAOH2:86] iniciando las operaciones de : Listado  
+[2024-05-29 23:00:44] [ INFO ] [OdontologoDAOH2:86] iniciando las operaciones de : Listado  
+[2024-05-29 23:00:55] [ INFO ] [OdontologoDAOH2:19] iniciando las operaciones de : Guardado de :Pamela
+[2024-05-29 23:00:55] [ ERROR] [OdontologoDAOH2:33] NULL not allowed for column "MATRICULA"; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES(?,?,?) [23502-224]
+[2024-05-29 23:00:56] [ INFO ] [OdontologoDAOH2:19] iniciando las operaciones de : Guardado de :Pamela
+[2024-05-29 23:00:56] [ ERROR] [OdontologoDAOH2:33] NULL not allowed for column "MATRICULA"; SQL statement:
+INSERT INTO ODONTOLOGOS (MATRICULA, NOMBRE, APELLIDO) VALUES(?,?,?) [23502-224]
+[2024-05-29 23:01:14] [ INFO ] [OdontologoDAOH2:19] iniciando las operaciones de : Guardado de :Pamela
+[2024-05-29 23:01:17] [ INFO ] [OdontologoDAOH2:86] iniciando las operaciones de : Listado  
+[2024-05-29 23:17:59] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-29 23:18:03] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-29 23:18:09] [ INFO ] [OdontologoDAOH2:86] iniciando las operaciones de : Listado  
+[2024-05-29 23:24:28] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-29 23:24:36] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-29 23:24:41] [ INFO ] [OdontologoDAOH2:19] iniciando las operaciones de : Guardado de :Pamela
+[2024-05-29 23:24:43] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-29 23:24:50] [ INFO ] [OdontologoDAOH2:40] iniciando las operaciones de : busqueda De un Odontologo con id:  2
+[2024-05-29 23:24:50] [ INFO ] [OdontologoDAOH2:79] iniciando las operaciones de eliminacion con id: 2
+[2024-05-29 23:24:51] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-29 23:25:39] [ INFO ] [OdontologoDAOH2:40] iniciando las operaciones de : busqueda De un Odontologo con id:  3
+[2024-05-29 23:25:39] [ INFO ] [OdontologoDAOH2:60] iniciando las operaciones de actualizacion de odontologo con id: 3
+[2024-05-29 23:25:43] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-29 23:26:29] [ INFO ] [OdontologoDAOH2:40] iniciando las operaciones de : busqueda De un Odontologo con id:  2
+[2024-05-29 23:26:32] [ INFO ] [OdontologoDAOH2:40] iniciando las operaciones de : busqueda De un Odontologo con id:  3
+[2024-05-29 23:26:34] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-29 23:34:45] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-29 23:34:54] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-29 23:35:34] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-29 23:35:38] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-29 23:35:38] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-29 23:35:38] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-29 23:35:39] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-29 23:35:39] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-29 23:35:39] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-29 23:35:39] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-29 23:35:39] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-29 23:36:18] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-29 23:36:22] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-29 23:36:23] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-29 23:36:27] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-29 23:36:41] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-29 23:36:47] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-29 23:39:16] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-29 23:39:29] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-29 23:39:51] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-29 23:39:57] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-29 23:39:59] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-29 23:40:00] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-29 23:40:50] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-29 23:40:52] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-29 23:40:53] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-29 23:40:53] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-29 23:53:52] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-29 23:53:59] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-29 23:54:00] [ INFO ] [OdontologoDAOH2:40] iniciando las operaciones de : busqueda De un Odontologo con id:  2
+[2024-05-29 23:54:00] [ INFO ] [OdontologoDAOH2:79] iniciando las operaciones de eliminacion con id: 2
+[2024-05-29 23:54:22] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-29 23:54:26] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-29 23:54:27] [ INFO ] [OdontologoDAOH2:40] iniciando las operaciones de : busqueda De un Odontologo con id:  2
+[2024-05-29 23:54:27] [ INFO ] [OdontologoDAOH2:79] iniciando las operaciones de eliminacion con id: 2
+[2024-05-29 23:54:34] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-29 23:54:41] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-29 23:54:42] [ INFO ] [OdontologoDAOH2:40] iniciando las operaciones de : busqueda De un Odontologo con id:  2
+[2024-05-29 23:54:42] [ INFO ] [OdontologoDAOH2:79] iniciando las operaciones de eliminacion con id: 2
+[2024-05-29 23:54:58] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 09:15:16] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 09:15:31] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-30 09:15:32] [ INFO ] [OdontologoDAOH2:40] iniciando las operaciones de : busqueda De un Odontologo con id:  2
+[2024-05-30 09:15:48] [ INFO ] [OdontologoDAOH2:40] iniciando las operaciones de : busqueda De un Odontologo con id:  2
+[2024-05-30 09:15:48] [ INFO ] [OdontologoDAOH2:60] iniciando las operaciones de actualizacion de odontologo con id: 2
+[2024-05-30 09:15:48] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-30 09:15:54] [ INFO ] [OdontologoDAOH2:40] iniciando las operaciones de : busqueda De un Odontologo con id:  2
+[2024-05-30 09:16:09] [ INFO ] [OdontologoDAOH2:40] iniciando las operaciones de : busqueda De un Odontologo con id:  2
+[2024-05-30 09:16:10] [ INFO ] [OdontologoDAOH2:60] iniciando las operaciones de actualizacion de odontologo con id: 2
+[2024-05-30 09:16:10] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-30 09:26:26] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 09:28:36] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 09:30:14] [ INFO ] [OdontologoDAOH2:19] iniciando las operaciones de : Guardado de :MARIA
+[2024-05-30 09:30:16] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-30 09:30:22] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-30 09:30:35] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-30 09:30:51] [ INFO ] [BD:33] tabla creada con exito
+[2024-05-30 09:30:54] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-30 09:31:17] [ INFO ] [OdontologoDAOH2:19] iniciando las operaciones de : Guardado de :Canci
+[2024-05-30 09:31:19] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-30 09:31:22] [ INFO ] [OdontologoDAOH2:40] iniciando las operaciones de : busqueda De un Odontologo con id:  3
+[2024-05-30 09:31:38] [ INFO ] [OdontologoDAOH2:40] iniciando las operaciones de : busqueda De un Odontologo con id:  3
+[2024-05-30 09:31:38] [ INFO ] [OdontologoDAOH2:60] iniciando las operaciones de actualizacion de odontologo con id: 3
+[2024-05-30 09:31:38] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-05-30 09:31:40] [ INFO ] [OdontologoDAOH2:40] iniciando las operaciones de : busqueda De un Odontologo con id:  1
+[2024-05-30 09:31:50] [ INFO ] [OdontologoDAOH2:40] iniciando las operaciones de : busqueda De un Odontologo con id:  1
+[2024-05-30 09:31:50] [ INFO ] [OdontologoDAOH2:60] iniciando las operaciones de actualizacion de odontologo con id: 1
+[2024-05-30 09:31:51] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-06-05 17:21:08] [ INFO ] [BD:33] tabla creada con exito
+[2024-06-05 17:21:45] [ INFO ] [PacienteDAOH2:138] iniciando la busqueda de todos los pacientes
+[2024-06-05 17:21:45] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 17:21:45] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 17:23:14] [ INFO ] [BD:33] tabla creada con exito
+[2024-06-05 17:23:17] [ INFO ] [PacienteDAOH2:138] iniciando la busqueda de todos los pacientes
+[2024-06-05 17:23:17] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 17:23:17] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 17:23:18] [ INFO ] [PacienteDAOH2:138] iniciando la busqueda de todos los pacientes
+[2024-06-05 17:23:18] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 17:23:18] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 17:23:18] [ INFO ] [PacienteDAOH2:138] iniciando la busqueda de todos los pacientes
+[2024-06-05 17:23:18] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 17:23:18] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 17:23:18] [ INFO ] [PacienteDAOH2:138] iniciando la busqueda de todos los pacientes
+[2024-06-05 17:23:18] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 17:23:18] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 17:23:19] [ INFO ] [PacienteDAOH2:138] iniciando la busqueda de todos los pacientes
+[2024-06-05 17:23:19] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 17:23:19] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 17:23:19] [ INFO ] [PacienteDAOH2:138] iniciando la busqueda de todos los pacientes
+[2024-06-05 17:23:19] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 17:23:19] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 17:24:05] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-06-05 17:24:55] [ INFO ] [BD:33] tabla creada con exito
+[2024-06-05 17:25:00] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-06-05 17:25:09] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-06-05 17:25:31] [ INFO ] [BD:33] tabla creada con exito
+[2024-06-05 17:25:47] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-06-05 17:26:08] [ INFO ] [PacienteDAOH2:138] iniciando la busqueda de todos los pacientes
+[2024-06-05 17:26:08] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 17:26:08] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 17:26:17] [ INFO ] [PacienteDAOH2:138] iniciando la busqueda de todos los pacientes
+[2024-06-05 17:26:17] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 17:26:17] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 17:26:55] [ INFO ] [PacienteDAOH2:138] iniciando la busqueda de todos los pacientes
+[2024-06-05 17:26:55] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 17:26:55] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 17:30:10] [ INFO ] [BD:33] tabla creada con exito
+[2024-06-05 17:30:16] [ INFO ] [PacienteDAOH2:138] iniciando la busqueda de todos los pacientes
+[2024-06-05 17:30:16] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 17:30:16] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 17:30:29] [ INFO ] [PacienteDAOH2:138] iniciando la busqueda de todos los pacientes
+[2024-06-05 17:30:29] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 17:30:29] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 17:31:14] [ INFO ] [PacienteDAOH2:138] iniciando la busqueda de todos los pacientes
+[2024-06-05 17:31:14] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 17:31:14] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 17:40:01] [ INFO ] [BD:33] tabla creada con exito
+[2024-06-05 17:40:11] [ INFO ] [OdontologoDAOH2:19] iniciando las operaciones de : Guardado de :eqw
+[2024-06-05 17:40:15] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-06-05 17:40:21] [ INFO ] [PacienteDAOH2:138] iniciando la busqueda de todos los pacientes
+[2024-06-05 17:40:21] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 17:40:21] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 17:41:19] [ INFO ] [PacienteDAOH2:138] iniciando la busqueda de todos los pacientes
+[2024-06-05 17:41:19] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 17:41:19] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 17:42:42] [ INFO ] [BD:33] tabla creada con exito
+[2024-06-05 17:42:45] [ INFO ] [PacienteDAOH2:138] iniciando la busqueda de todos los pacientes
+[2024-06-05 17:42:45] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 17:42:45] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 18:37:26] [ INFO ] [BD:33] tabla creada con exito
+[2024-06-05 18:37:37] [ INFO ] [PacienteDAOH2:138] iniciando la busqueda de todos los pacientes
+[2024-06-05 18:37:37] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 18:37:37] [ INFO ] [DomicilioDaoH2:50] iniciando la operacion de : Buscado de un domicilio
+[2024-06-05 18:37:38] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  
+[2024-06-05 18:37:40] [ INFO ] [OdontologoDAOH2:40] iniciando las operaciones de : busqueda De un Odontologo con id:  2
+[2024-06-05 18:37:41] [ INFO ] [OdontologoDAOH2:40] iniciando las operaciones de : busqueda De un Odontologo con id:  2
+[2024-06-05 18:37:41] [ INFO ] [OdontologoDAOH2:60] iniciando las operaciones de actualizacion de odontologo con id: 2
+[2024-06-05 18:37:41] [ INFO ] [OdontologoDAOH2:95] iniciando las operaciones de : Listado  

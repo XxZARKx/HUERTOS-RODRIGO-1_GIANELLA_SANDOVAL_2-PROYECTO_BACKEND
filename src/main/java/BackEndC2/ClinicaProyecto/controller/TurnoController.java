@@ -28,19 +28,18 @@ public class TurnoController {
     @PostMapping
     public ResponseEntity<Turno> guardarTurno(@RequestBody Turno turno) throws BadRequestException {
 
-            Turno turnoAGuardar = new Turno();
-            Optional<Paciente> pacienteBuscado = pacienteService.buscarPorId(turno.getPaciente().getId());
-            Optional<Odontologo> odontologoBuscado = odontologoService.buscarPorId(turno.getOdontologo().getId());
-            if(pacienteBuscado.isPresent() && odontologoBuscado.isPresent()){
-                turnoAGuardar.setPaciente(pacienteBuscado.get());
-                turnoAGuardar.setOdontologo(odontologoBuscado.get());
-            }else{
-                throw new BadRequestException("El odontologo o paciente ingresado no existe");
-            }
+        Optional<Paciente> pacienteBuscado= pacienteService.buscarPorId(turno.getPaciente().getId());
+        Optional<Odontologo> odontologoBuscado= odontologoService.buscarPorId(turno.getOdontologo().getId());
 
-            turnoAGuardar.setFecha(turno.getFecha());
+        if(pacienteBuscado.isPresent()&&odontologoBuscado.isPresent()){
+            turno.setPaciente(pacienteBuscado.get());
+            turno.setOdontologo(odontologoBuscado.get());
+            return ResponseEntity.ok(turnoService.guardarTurno(turno));
+        }else{
+            //bad request or not found
+            throw new BadRequestException("El odontologo o paciente ingresado no existe");
+        }
 
-            return ResponseEntity.ok(turnoService.guardarTurno(turnoAGuardar));
     }
 
     @GetMapping("/{id}")
@@ -57,23 +56,14 @@ public class TurnoController {
     public ResponseEntity<String> actualizarTurno(@RequestBody Turno turno){
         Optional<Turno> turnoBuscado = turnoService.buscarPorId(turno.getId());
         if(turnoBuscado.isPresent()){
-
-            Turno turnoActualizado = new Turno();
             Optional<Paciente> pacienteBuscado = pacienteService.buscarPorId(turno.getPaciente().getId());
-            if(pacienteBuscado.isPresent()){
-                turnoActualizado.setPaciente(pacienteBuscado.get());
-            }else{
-                return ResponseEntity.notFound().build();
-            }
             Optional<Odontologo> odontologoBuscado = odontologoService.buscarPorId(turno.getOdontologo().getId());
-            if(odontologoBuscado.isPresent()){
-                turnoActualizado.setOdontologo(odontologoBuscado.get());
+            if(pacienteBuscado.isPresent()&&odontologoBuscado.isPresent()){
+                turno.setPaciente(pacienteBuscado.get());
+                turno.setOdontologo(odontologoBuscado.get());
             }else{
                 return ResponseEntity.notFound().build();
             }
-
-            turnoActualizado.setFecha(turno.getFecha());
-
             turnoService.actualizarTurno(turno);
             return ResponseEntity.ok("Turno actualizado correctamente");
         }else{
